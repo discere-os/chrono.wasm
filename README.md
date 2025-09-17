@@ -1,8 +1,15 @@
+# @discere-os/chrono.wasm
+
+WebAssembly port of Project CHRONO - An open-source multi-physics package for modeling and simulating complex dynamical systems.
+
+[![CI/CD](https://github.com/discere-os/discere-nucleus/actions/workflows/chrono-wasm-ci.yml/badge.svg)](https://github.com/discere-os/discere-nucleus/actions)
+[![JSR](https://jsr.io/badges/@discere-os/chrono.wasm)](https://jsr.io/@discere-os/chrono.wasm)
+[![npm version](https://badge.fury.io/js/@discere-os%2Fchrono.wasm.svg)](https://badge.fury.io/js/@discere-os%2Fchrono.wasm)
+[![License](https://img.shields.io/badge/License-BSD--3--Clause-blue.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-alpha-orange.svg)](https://github.com/discere-os/discere-nucleus)
+
 Project CHRONO
 ==============
-
-[![pipeline status](https://gitlab.com/uwsbel/chrono/badges/main/pipeline.svg)](https://gitlab.com/uwsbel/chrono/commits/main)
-[![BSD License](http://www.projectchrono.org/assets/logos/chrono-bsd.svg)](https://projectchrono.org/license-chrono.txt)
 
 
 Distributed under a permissive BSD license, Chrono is an open-source multi-physics package used to model and simulate:
